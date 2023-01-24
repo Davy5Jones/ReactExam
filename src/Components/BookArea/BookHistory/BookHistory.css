@@ -1,0 +1,10 @@
+.BookHistory {
+	 border: 4px;
+    border-color: greenyellow;
+    margin: 5px;
+    grid-row: 4fr;
+    grid-column:  2 span;
+    max-width: 4 span;
+    max-height:4 span;
+    border-style: dashed;
+}

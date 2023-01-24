@@ -1,9 +1,11 @@
-.App {
-  text-align: center;
+.BookList {
+
+}
+.BookListWrapper{
+   	  text-align: center;
   height: 100%;
   display: grid;
   grid-template-columns: repeat(12,1fr);
-    grid-template-rows: repeat(12,1fr);
+
     text-align: center;
-    overflow: hidden;
 }
